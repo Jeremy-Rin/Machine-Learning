@@ -2,7 +2,7 @@
 This is my daily learning diary of machine learning  
 
 ## Day one
-Install OpenCV+ Python in Ubuntu  
+[Install OpenCV+ Python in Ubuntu](https://blog.csdn.net/qq_40883804/article/details/109997865)  
 
 [CSDN](https://blog.csdn.net/qq_40883804)  
 [博客](https://www.cnblogs.com/JeremyRin/)  
