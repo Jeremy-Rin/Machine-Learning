@@ -6,7 +6,7 @@ This is my daily learning diary of machine learning
 ## Day two
 [Tracking motion in video](https://blog.csdn.net/qq_40883804/article/details/110078797)  
 ## Day three
-[parse command line arguments]（https://blog.csdn.net/qq_40883804/article/details/110129033）  
+[parse command line arguments](https://blog.csdn.net/qq_40883804/article/details/110129033）   
 
 
 ## 
